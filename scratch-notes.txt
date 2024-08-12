@@ -1,0 +1,25 @@
+GL.iNET router:
+
+wlan.ta == 12:a5:6c:d3:e8:46 || wlan.sa == 12:a5:6c:d3:e8:46
+
+Pixel 7 phone:
+
+wlan.ta == c6:d3:0e:cf:73:d2 || wlan.sa == c6:d3:0e:cf:73:d2
+
+Asus RT-AC68U:
+
+wlan.ta == e0:3f:49:92:f0:70 || wlan.ra == e0:3f:49:92:f0:70
+
+iPhone 13:
+
+wlan.ta == de:85:ef:d0:d9:f1 || wlan.ra == de:85:ef:d0:d9:f1
+
+Kali VM:
+
+wlan.ta == 12:a9:8e:c9:bf:95 || wlan.ra == 12:a9:8e:c9:bf:95
+
+
+
+For Kali VM: Show screenshot of difference in configured profile vs. broadcasts from WPA2-only network
+For Pixel 7: 
+
